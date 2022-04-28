@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Jack</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- <audio id="player" src="./casino_not.mp3"></audio> -->
+    <h1 class="title">Welcome to the Black Jack Game</h1>
+    <p class="message er-message win-message" id="message">Wanna play a round?</p>
+    <div class="btnSection">
+        <button class="btn yes" id="yes" onclick="yesclick()">Yes</button>
+    <button class="btn no" id="no" onclick="noclick()">No</button>
+    </div>
+    
+    <p class="cards" id="cards"></p>
+    <p class="sum" id="sum"></p>
+    
+    <button class="startgame" id="startgame" onclick="startgame()">Start Game</button>
+    <div class="btnSection">
+        <button class="btn replayBtn" id="replayBtn" onclick="replayGame()">Replay</button>
+    </div>
+    <div class="rules">
+        <h4>RULES</h4>
+        <br>
+        <p>1.Click "yes" to draw new card, "no" to quit.</p>
+        <p>2.Sum of your cards should be equal to 21 to win.</p>
+        <p>3.If sum of your chosen cards is more than 21, you'll lose the game.</p>
+    </div>
+    <div><canvas class="confetti" id="canvas"></canvas></div>
+    <footer id="footer">
+        <p class="footer-title">Black Jack</p>
+        <p>This is a game for entertainment purpose only. We don't encourage any misuse of contents</p>
+        <div class="images">
+            <div class="img-card"><a href="#"></a></div>
+            <div class="img-card"><a href="#"></a></div>
+            <div class="img-card"><a href="#"></a></div>
+        </div>
+        <p>Copyright &copy; BlackJack Game All rights reserved</p>
+    </footer>
+    <script src="../BlackJack game/app.js"></script>
+    <script src="./confetti.js"></script>
+   
+</body>
+
+
+</html>
