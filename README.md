@@ -1,7 +1,5 @@
 
 
-[
-
 # Black Jack Game
 
 ## Authors
