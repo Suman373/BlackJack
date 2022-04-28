@@ -83,7 +83,7 @@ function renderGame(){
         yes_button.style.display='inline-block';
         no_button.style.display ='inline-block';
     } 
-    else if(sum >=21){
+    else if(sum === 21){
         removeYesno();
         message_change.classList.add('win-message');
         message_change.innerText="Congratulations! You've got a blackjack!!"
