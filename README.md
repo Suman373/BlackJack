@@ -1,4 +1,4 @@
-![Template](https://user-images.githubusercontent.com/95040233/165736670-18781895-3b44-46be-a804-949683148ae2.png)
+
 
 # Black Jack Game
 
