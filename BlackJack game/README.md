@@ -1,6 +1,6 @@
 
 
-![(https://github.com/Suman373/JSgame/blob/main/BlackJack%20game/Template.png)]
+![Template][(https://github.com/Suman373/JSgame/blob/main/BlackJack%20game/Template.png)]
 
 # Black Jack Game
 
