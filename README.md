@@ -39,5 +39,5 @@
 
 ## Feedback
 
-If you have any feedback, please reach out to me at iamsuman898@gmail.com
+If you have any issue, please raise it or if you wanna collaborate on any such js games reach me at my <a href="mailto:iamsuman898@gmail.com">email</a>
 
