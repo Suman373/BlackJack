@@ -1,6 +1,6 @@
 ![Template](https://user-images.githubusercontent.com/95040233/166242011-1aa85441-66d8-40b5-93d3-8791cbd9f779.png)
 
-# Black Jack Game
+# Black Jack Game (Retro style)
 
 ## Authors
 
