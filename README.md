@@ -18,9 +18,7 @@
 
 
 ## About
- Black Jack Game is a simple yet fun web game. It is a 
- responsive game which doesn't promote any illegal 
- activities and is solely for entertainment purpose.
+ Black Jack Game is a simple javascript web game. It is solely for entertainment purpose.
  
 ## Technologies used
 ![VSCode()](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
