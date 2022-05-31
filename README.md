@@ -7,11 +7,7 @@
 - [@Suman373](https://www.github.com/Suman373)
 
 
-
-
 ## Badges
-
-
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
